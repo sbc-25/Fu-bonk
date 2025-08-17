@@ -89,7 +89,7 @@ Features: **Live-Videos, NFT-Marktplatz, Amateurfußball-Ligen, soziale Funktion
 3. ⚙️ Settings → Pages  
 4. „Deploy from a branch“ auswählen  
 5. Branch **main** + Ordner **/ (root)**  
-6. ✅ Live unter: `https://username.github.io/repo-name`  
+6. ✅ Live unter: `https://kuch3nfresseyt-cpu.github.io/Bonk/`  
 
 ### 💻 Lokale Entwicklung  
 1. `git clone`  
